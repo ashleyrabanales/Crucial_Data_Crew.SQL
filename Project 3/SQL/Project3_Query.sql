@@ -1,10 +1,10 @@
-use Project3;
--- Quesiton a--
+use finalproject;
+-- Quesiton 1--
 select p.ticker, p.analyst, a.Confidence_Score, a.Points, a.Error_rate, a.Accuracy_Percentile from predictions p left join analyst a on p.analyst = a.AnalystID
 where ticker = 'LULU'
 order by a.Confidence_Score desc;
 
--- Quesiton b--
+-- Quesiton 2--
 
 select A1.industry, A1.companynumber, A2.analystnumber, (A2.analystnumber/A1.companynumber) AvgnumberAnalyst from
 (select industry, count(company) companynumber from companydata group by industry) A1
@@ -20,7 +20,7 @@ select c.industry, avg(e.e_consensus), avg(e.actual), (avg(e.e_consensus)- avg(e
 group by c.industry;
 
 
--- Question c--
+-- Question 3--
 -- create a view of confidence score and disctint analyst per company in predictions
 CREATE OR REPLACE VIEW final1 as (
 select distinct(analyst), p.ticker, a.Confidence_Score
@@ -32,10 +32,10 @@ where f.Confidence_Score > 7
 group by company
 order by count(f.analyst) DESC;
 
--- Question d--
+-- Question 4--
 select company
 from companydata
-order by followers DESC
+order by followers desc
 limit 1;
 
 

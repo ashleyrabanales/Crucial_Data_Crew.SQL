@@ -1,30 +1,30 @@
 ,ticker,company,sector,industry,followers,analysts
-0,AMZN,Amazon.com Inc.,Consumer Discretionary,Internet & Catalog Retail,"10,597","6,734"
-1,AAPL,Apple Inc.,Information Technology,Computers & Peripherals,"37,699","11,973"
-2,MSFT,Microsoft Corporation,Information Technology,Software,"15,473","4,300"
-3,GOOGL,Alphabet Inc.,Information Technology,Internet Software & Services,"21,317","5,522"
-4,TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,"9,107","7,650"
-5,JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,"2,587","1,088"
-6,PG,Procter & Gamble Co.,Consumer Staples,Household & Personal Products,"1,553",683
-7,NVDA,NVIDIA Corporation,Information Technology,Semiconductors,"10,827","4,673"
-8,CSCO,"Cisco Systems, Inc.",Information Technology,Communications Equipment,"2,021","2,301"
-9,BABA,Alibaba Group Holding Ltd.,Consumer Discretionary,Internet & Catalog Retail,"3,535","3,123"
-10,HD,"The Home Depot, Inc.",Consumer Discretionary,Specialty Retail,"1,453","1,848"
-11,BIDU,"Baidu, Inc.",Information Technology,Internet Software & Services,"1,980","1,911"
-12,WMT,Wal-Mart Stores Inc.,Consumer Staples,Food & Staples Retailing,"2,322","1,545"
-13,CRM,Salesforce.com,Information Technology,Software,"1,987","2,330"
-14,LULU,Lululemon Athletica Inc.,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","1,741","2,250"
-15,TGT,Target Corp.,Consumer Discretionary,Multiline Retail,851,"1,586"
-16,PANW,"Palo Alto Networks, Inc.",Information Technology,Communications Equipment,806,"1,109"
-17,ADBE,Adobe Systems Inc.,Information Technology,Software,"1,366","1,753"
-18,VMW,"VMware, Inc.",Information Technology,Software,718,"1,094"
-19,MU,Micron Technology Inc.,Information Technology,Semiconductors,"2,447","3,433"
-20,NKE,Nike Inc.,Consumer Discretionary,"Textiles, Apparel & Luxury Goods","2,879","2,700"
-21,ORCL,Oracle Corporation,Information Technology,Software,"1,431","1,842"
-22,BB,BlackBerry,Information Technology,Computers & Peripherals,"1,952","1,983"
-23,HPQ,Hewlett-Packard Company,Information Technology,Computers & Peripherals,804,"1,128"
-24,COST,Costco Wholesale Corporation,Consumer Staples,Food & Staples Retailing,"2,283","1,558"
-25,AMAT,Applied Materials Inc.,Information Technology,Semiconductors,830,"1,015"
-26,BAC,Bank of America Corporation,Financials,Diversified Financial Services,"3,792","2,044"
-27,CVX,Chevron Corporation,Energy,"Oil, Gas & Consumable Fuels","1,848",754
-28,AMGN,Amgen Inc.,Health Care,Biotechnology,"1,186",697
+0,AMZN,Amazon.com Inc.,Consumer Discretionary,Internet & Catalog Retail,10597.00,6734.00
+1,AAPL,Apple Inc.,Information Technology,Computers & Peripherals,37699.00,11973.00
+2,MSFT,Microsoft Corporation,Information Technology,Software,15473.00,4300.00
+3,GOOGL,Alphabet Inc.,Information Technology,Internet Software & Services,21317.00,5522.00
+4,TSLA,Tesla Inc.,Consumer Discretionary,Automobiles,9107.00,7650.00
+5,JNJ,Johnson & Johnson,Health Care,Pharmaceuticals,2587.00,1088.00
+6,PG,Procter & Gamble Co.,Consumer Staples,Household & Personal Products,1553.00,683.00
+7,NVDA,NVIDIA Corporation,Information Technology,Semiconductors,10827.00,4673.00
+8,CSCO,Cisco Systems Inc.,Information Technology,Communications Equipment,2021.00,2301.00
+9,BABA,Alibaba Group Holding Ltd.,Consumer Discretionary,Internet & Catalog Retail,3535.00,3123.00
+10,HD,The Home Depot Inc.,Consumer Discretionary,Specialty Retail,1453.00,1848.00
+11,BIDU,Baidu Inc.,Information Technology,Internet Software & Services,1980.00,1911.00
+12,WMT,Wal-Mart Stores Inc.,Consumer Staples,Food & Staples Retailing,2322.00,1545.00
+13,CRM,Salesforce.com,Information Technology,Software,1987.00,2330.00
+14,LULU,Lululemon Athletica Inc.,Consumer Discretionary,Textiles Apparel & Luxury Goods,1741.00,2250.00
+15,TGT,Target Corp.,Consumer Discretionary,Multiline Retail,851.00,1586.00
+16,PANW,Palo Alto Networks Inc.,Information Technology,Communications Equipment,806.00,1109.00
+17,ADBE,Adobe Systems Inc.,Information Technology,Software,1366.00,1753.00
+18,VMW,VMware Inc.,Information Technology,Software,718.00,1094.00
+19,MU,Micron Technology Inc.,Information Technology,Semiconductors,2447.00,3433.00
+20,NKE,Nike Inc.,Consumer Discretionary,Textiles Apparel & Luxury Goods,2879.00,2700.00
+21,ORCL,Oracle Corporation,Information Technology,Software,1431.00,1842.00
+22,BB,BlackBerry,Information Technology,Computers & Peripherals,1952.00,1983.00
+23,HPQ,Hewlett-Packard Company,Information Technology,Computers & Peripherals,804.00,1128.00
+24,COST,Costco Wholesale Corporation,Consumer Staples,Food & Staples Retailing,2283.00,1558.00
+25,AMAT,Applied Materials Inc.,Information Technology,Semiconductors,830.00,1015.00
+26,BAC,Bank of America Corporation,Financials,Diversified Financial Services,3792.00,2044.00
+27,CVX,Chevron Corporation,Energy,Oil Gas & Consumable Fuels,1848.00,754.00
+28,AMGN,Amgen Inc.,Health Care,Biotechnology,1186.00,697.00
