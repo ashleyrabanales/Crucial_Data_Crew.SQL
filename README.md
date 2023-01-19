@@ -35,5 +35,13 @@ At the completion of this course, students are expected to obtain the following:
 - Topic Modeling <//: https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf ://>
 - Carlos Coronel and Steven Morris. Database systems: Design, Implementation, & Management. 13th Edition. Cengage Learning. ISBN-13: 978-1337627900
 - Jiawei Han, Micheline Kamber and Jian Pei. Data Mining: Concepts and Techniques. 3rd Edition. Elsevier. ISBN-10: 0123814790.
+```
+- readme.md
+- scripts
+- documents
+---- project 1 - database
+---- project 2
+---- project 3
 
+```
   
