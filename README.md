@@ -1,6 +1,6 @@
 # Crucial_Data_Crew.SQL
 
-MSA 8140 - Data Mangement Class in learning SQL and non-SQL and webscrapping to complete 3 projects in a team we called Crucual Data Team.
+Learning SQL and non-SQL and webscrapping to complete 3 projects in a team, that we called Crucual Data Team.
 
 
 ## MSA 8040: Database Management for Analytics
