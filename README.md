@@ -29,4 +29,11 @@ At the completion of this course, students are expected to obtain the following:
   - SLO3.2: Extract useful information for unstructured data using Web Scraping
   - SLO3.3: Differentiate between unsupervised and supervised learning framework, and be able to implement textual analysis including topic model and sentiment analysis for textual data
   
+ ## Course Texts and Resources
+- MongoDB
+- MySQL <//: https://dev.mysql.com/doc/refman/8.0/en/tutorial.html ://>
+- Topic Modeling <//: https://www.jmlr.org/papers/volume3/blei03a/blei03a.pdf ://>
+- Carlos Coronel and Steven Morris. Database systems: Design, Implementation, & Management. 13th Edition. Cengage Learning. ISBN-13: 978-1337627900
+- Jiawei Han, Micheline Kamber and Jian Pei. Data Mining: Concepts and Techniques. 3rd Edition. Elsevier. ISBN-10: 0123814790.
+
   
